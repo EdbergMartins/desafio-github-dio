@@ -1,0 +1,2 @@
+ - Repositório criado com intuito de concretizar o primeiro desafio de projeto proposto pelo bootcamp da DIO.
+ - O curso pode ser acessado a partir da seguinte url https://web.dio.me/track/tqi-fullstack-developer
